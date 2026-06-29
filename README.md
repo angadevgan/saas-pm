@@ -231,10 +231,21 @@ SaaS-PM/
 
 **Angad Devgan**  
 Final Year CSE Student — CCET Chandigarh  
-[GitHub](https://github.com/angadevgan) · [LinkedIn](https://linkedin.com/in/angadevgan)
+[GitHub](https://github.com/angadevgan) · [LinkedIn](https://linkedin.com/in/angad-devgan)
 
 ---
 
 ## 📄 License
 
 MIT License — feel free to use this project as a reference.
+
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### Kanban Board
+![Kanban](./screenshots/kanban.png)
+
+### Dark Mode
+![Dark Mode](./screenshots/darkmode.png)
