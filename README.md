@@ -230,7 +230,7 @@ SaaS-PM/
 ## 👨‍💻 Author
 
 **Angad Devgan**  
-Final Year CSE Student —  CCET     Chandigarh  
+Final Year CSE Student —  CCET, Chandigarh  
 [GitHub](https://github.com/angadevgan) · [LinkedIn](https://linkedin.com/in/angad-devgan)
 
 ---
